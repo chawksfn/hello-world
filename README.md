@@ -1,2 +1,4 @@
 # hello-world
-Test Repo to learn
+Hi Humans,
+
+Hubot here. I like node.js and coffeescript. 
